@@ -18,6 +18,7 @@ public class Menü {
 
         public static void MenüStart(){
 
+            System.out.println("*--------------*");
         slowPrint("----------CAN KEBAP SALONUNA HOŞ GELDİNİZ----------\n\n",30);
             System.out.println("ET ÜRÜNLERİ İÇİN 1"+'\n'+"HAMUR İŞLERİ İÇİN 2"+'\n'+"İÇECEKLER İÇİN 3"+'\n'+
                     "MEZELER İÇİN 4"+'\n'+"TAVUK ÜRÜNLERİ İÇİN 5'İ"

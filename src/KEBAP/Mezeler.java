@@ -8,7 +8,7 @@ public class Mezeler {
 
 
     public static void MezelerBurada(){
-
+        System.out.println("*--------------*");
         List<String> Kodu = Arrays.asList("01", "02", "03"  , "04", "05");
         List<String> Adı = Arrays.asList("Acılı Ezme" , "Haydari", "Yoğurt", "Tablacı Salatası", "İçli Köfte");
         List<Integer> Fiyat = Arrays.asList(20,20,15,15,25);
